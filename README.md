@@ -17,6 +17,6 @@ Thank you for checking out my project and happy coding!
 # Contact
 If you have any questions, feel free to reach out via GitHub Issues or email: aqeelahmad466@gmail.com
 
-# Research group
+# Phenotypeforge research group
 Check out our recent projects @ https://garethdifford.com/phenotypeforge
 
